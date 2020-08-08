@@ -4,3 +4,4 @@
 ### seating- https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/
 ### rotating - https://www.hackerearth.com/practice/codemonk/ 
 ### anagram - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/ 
+### brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
