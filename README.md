@@ -6,3 +6,4 @@
 ### anagram - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/ 
 ### brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
 ### sub-orrays - https://codeforces.com/contest/1391/problem/A
+### fixyou - https://codeforces.com/contest/1391/problem/B
