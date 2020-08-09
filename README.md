@@ -8,3 +8,4 @@
 ### sub-orrays - https://codeforces.com/contest/1391/problem/A
 ### fixyou - https://codeforces.com/contest/1391/problem/B
 ### SMLLEST-KMP - https://www.codechef.com/AUG20B/problems/SKMP
+### brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
