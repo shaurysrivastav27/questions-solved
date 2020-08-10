@@ -10,3 +10,4 @@
 ### SMLLEST-KMP - https://www.codechef.com/AUG20B/problems/SKMP
 ### brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
 ### infix->postfix - using stacks conversion of infix into postfix
+### postfix->cala - using stacks calcluting value of postfix expression
