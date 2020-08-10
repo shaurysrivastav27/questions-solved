@@ -46,7 +46,6 @@ void pop()
     }
     else
     {
-    
     struct node *p,*q;
     p=head;
     while(p->next!=NULL)
@@ -107,30 +106,32 @@ int chara(char q)
     }
     
 }
-char * postfix(char *a,int n)
+char * postfix(char *a)
 {
     struct node st;
+    int n = strlen(a);
     char * s=new char[n];
     int l=0;
     for(int i=0;i<n;i++)
     {
         if(chara(a[i]))
         {
-            if(pre(ret())==0)
+            if(count()==0)
             {
                 push(a[i]);
             }
-        else if(pre(ret())<=pre(a[i]))
-        {
-            s[l]=ret();
-            l++;
-            pop();
-            push(a[i]);
-        }
-        else
-        {
-            push(a[i]);
-        }
+
+           else if(pre(a[i])>pre(ret()))
+                {
+                    push(a[i]);
+                }
+            else
+            {
+                s[l]=ret();
+                pop();
+                push(a[i]);
+                l++;
+            }
         }
         else
         {
@@ -157,5 +158,5 @@ int main()
     cin>>n;
     a=new char[n];
     cin>>a;
-    cout<<postfix(a,n);
+    cout<<postfix(a);
 }
