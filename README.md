@@ -22,8 +22,19 @@
 #### 2) https://codeforces.com/contest/1401/problem/B
 
 ## CODECHEF 
-### AUGUST LONG CHALLENGE-
+### LONG CHALLENGE-
+### AUGUST/20
 #### 1) https://www.codechef.com/AUG20B/problems/CRDGAME3
 #### 2) https://www.codechef.com/AUG20B/problems/LINCHESS
 #### 3) https://www.codechef.com/AUG20B/problems/CHEFWARS
 #### 4) https://www.codechef.com/AUG20B/problems/SKMP
+
+### LUNCHTIME
+### AUGUST/20
+#### 1) https://www.codechef.com/LTIME87B/problems/MODEFREQ
+#### 2) https://www.codechef.com/LTIME87B/problems/ARRGAME
+
+### COOKOFF
+### AUGUST/20
+#### 1) https://www.codechef.com/COOK121B/problems/CHEFNWRK
+#### 2) https://www.codechef.com/COOK121B/problems/POLYREL
