@@ -17,9 +17,11 @@
 ### CODEFORCES 662 DIV 2
 #### 1) https://codeforces.com/contest/1391/problem/A
 #### 2) https://codeforces.com/contest/1391/problem/B
-### CODEFORCES 665 DIV2 
+### CODEFORCES 665 DIV 2 
 #### 1) https://codeforces.com/contest/1401/problem/A
 #### 2) https://codeforces.com/contest/1401/problem/B
+### CODEFORCES 666 DIV 2
+#### https://codeforces.com/contest/1397/problem/A
 
 ## CODECHEF 
 ### LONG CHALLENGE-
