@@ -8,7 +8,9 @@
 ## HACKER-EARTH
 #### seating- https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/
 #### rotating - https://www.hackerearth.com/practice/codemonk/ 
+#### anti pallindrome - https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/anti-plaindrome-2-72ff6f62/
 #### anagram - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/ 
+#### string sum - https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-sum/
 
 ## HACKERRANK
 #### brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
