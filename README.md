@@ -24,7 +24,9 @@
 #### 2) https://codeforces.com/contest/1401/problem/B
 ### CODEFORCES 666 DIV 2
 #### https://codeforces.com/contest/1397/problem/A
-
+### CODEFORCES 667 DIV 3
+#### https://codeforces.com/contest/1409/problem/A
+#### https://codeforces.com/contest/1409/problem/B
 ## CODECHEF 
 ### LONG CHALLENGE-
 ### AUGUST/20
