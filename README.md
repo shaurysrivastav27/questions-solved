@@ -35,6 +35,10 @@
 #### 3) https://www.codechef.com/AUG20B/problems/CHEFWARS
 #### 4) https://www.codechef.com/AUG20B/problems/SKMP
 
+### SEPTEMPER/20
+#### https://www.codechef.com/SEPT20B/problems/TREE2
+#### https://www.codechef.com/SEPT20B/problems/ADAMAT
+
 ### LUNCHTIME
 ### AUGUST/20
 #### 1) https://www.codechef.com/LTIME87B/problems/MODEFREQ
