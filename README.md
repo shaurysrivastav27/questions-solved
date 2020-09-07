@@ -38,6 +38,7 @@
 ### SEPTEMPER/20
 #### https://www.codechef.com/SEPT20B/problems/TREE2
 #### https://www.codechef.com/SEPT20B/problems/ADAMAT
+#### https://www.codechef.com/SEPT20B/problems/COVID19B
 
 ### LUNCHTIME
 ### AUGUST/20
