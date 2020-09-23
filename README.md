@@ -27,6 +27,10 @@
 ### CODEFORCES 667 DIV 3
 #### https://codeforces.com/contest/1409/problem/A
 #### https://codeforces.com/contest/1409/problem/B
+### CODEFORCES 671 DIV 2
+#### https://codeforces.com/contest/1419/problem/A
+#### https://codeforces.com/contest/1419/problem/B
+#### https://codeforces.com/contest/1419/problem/D1
 ## CODECHEF 
 ### LONG CHALLENGE-
 ### AUGUST/20
