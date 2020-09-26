@@ -31,6 +31,9 @@
 #### https://codeforces.com/contest/1419/problem/A
 #### https://codeforces.com/contest/1419/problem/B
 #### https://codeforces.com/contest/1419/problem/D1
+### CODEFORCES 672 DIV 2
+#### https://codeforces.com/contest/1420/problem/A
+#### https://codeforces.com/contest/1420/problem/B
 ## CODECHEF 
 ### LONG CHALLENGE-
 ### AUGUST/20
