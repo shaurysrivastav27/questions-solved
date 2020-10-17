@@ -2,6 +2,15 @@
 ## all the questions of cp solved
 #### infix->postfix - using stacks conversion of infix into postfix
 #### postfix->cala - using stacks calcluting value of postfix expression
+### dynamic programming problems
+#### https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
+#### https://www.spoj.com/problems/MST1/
+#### https://www.codechef.com/problems/JAIN
+#### https://www.codechef.com/problems/JAM11
+#### https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+#### https://www.codechef.com/submit/JAIN
+#### bitmasking....
+
 #### FIBBONACI AGAIN - Task. Given two integers n and m, output F n mod m (that is, the remainder of F n when divided by m).Input Format. The input consists of two integers n and m given on the same line (separated by a space).Constraints. 1 ≤ n ≤ 10 14 , 2 ≤ m ≤ 10 3 .Output Format. Output Fn mod m.
 ## links to questions ..
 
