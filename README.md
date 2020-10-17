@@ -33,7 +33,14 @@
 #### https://codeforces.com/contest/1419/problem/D1
 ### CODEFORCES 672 DIV 2
 #### https://codeforces.com/contest/1420/problem/A
-#### https://codeforces.com/contest/1420/problem/B
+#### https://codeforces.com/contest/1420/problem/
+### CODEFORCES EDUCATIONAL ROUND 
+#### https://codeforces.com/contest/1430/problem/A
+#### https://codeforces.com/contest/1430/problem/B
+#### https://codeforces.com/contest/1430/problem/C
+### CODEFORCES GLOBAL ROUND 11
+#### https://codeforces.com/contest/1427/problem/A
+
 ## CODECHEF 
 ### LONG CHALLENGE-
 ### AUGUST/20
