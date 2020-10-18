@@ -1,5 +1,6 @@
 # spoj_123 : https://www.spoj.com/problems/MST1/
-# fibbonaci using memoized
+# minimumcoin change https://practice.geeksforgeeks.org/problems/number-of-coins1824/1
+# fibbonaci https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
 # https://www.codechef.com/problems/JAIN
 # stair case problems  - staircase ,staircase2 
 ### in how many ways can we go to nth stair from 0 given we only can move {1,2,3} stairs at a time ;
