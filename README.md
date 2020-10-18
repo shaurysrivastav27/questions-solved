@@ -10,6 +10,7 @@
 #### https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
 #### https://www.codechef.com/submit/JAIN
 #### bitmasking....
+#### https://practice.geeksforgeeks.org/problems/number-of-coins/0
 
 #### FIBBONACI AGAIN - Task. Given two integers n and m, output F n mod m (that is, the remainder of F n when divided by m).Input Format. The input consists of two integers n and m given on the same line (separated by a space).Constraints. 1 ≤ n ≤ 10 14 , 2 ≤ m ≤ 10 3 .Output Format. Output Fn mod m.
 ## links to questions ..
