@@ -48,7 +48,12 @@
 #### https://codeforces.com/contest/1419/problem/D1
 ### CODEFORCES 672 DIV 2
 #### https://codeforces.com/contest/1420/problem/A
-#### https://codeforces.com/contest/1420/problem/
+
+### CODEFORCES 676 DIV 2
+#### https://codeforces.com/contest/1421/problem/A
+#### https://codeforces.com/contest/1421/problem/B
+#### https://codeforces.com/contest/1421/problem/C
+
 ### CODEFORCES EDUCATIONAL ROUND 
 #### https://codeforces.com/contest/1430/problem/A
 #### https://codeforces.com/contest/1430/problem/B
