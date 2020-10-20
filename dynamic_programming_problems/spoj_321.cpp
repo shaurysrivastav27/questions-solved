@@ -13,58 +13,63 @@ using namespace std;
 #define pb push_back
 #define sort(a) sort(a.begin(),a.end())
 #define sort1(a) sort(a.begin(),a.end(),greater<ll> ())
+#define line cout<<endl 
+using namespace std::chrono; 
 int N = 2e7+5;
-ll min(ll a,ll b)
-{
-	if(a>b) return b;
-	else return a;
-}
-ll solve(ll n,vec table) //recursive approach tle
-{
-	ll a;
-	if(table[n]!=-1) return table[n];
-	else
-	{
-		a = solve(n-1,table);
-		if(n%2==0)
-		a = min(a,solve(n/2,table));
-		else if(n%3==0)
-		a = min(a,solve(n/3,table));
-	}
-	table[n] = a +1;
-	return table[n];
-}
-
-ll solve1(ll n) //memoized approach wa
+ll inf = 1e18;
+vec table;
+ll solve(ll n) 
 {
 	if(n==1) return 0;
-    vec table; 
-    for (int i=0; i<=n; i++) 
-        table.pb(n-i); 
-    for (int i=n; i>=1; i--) 
-    { 
-       if (i%2==0) 
-          table[i/2] = min(table[i]+1, table[i/2]); 
-       if (i%3==0) 
-          table[i/3] = min(table[i]+1, table[i/3]); 
-    } 
-    return table[1]; 
+    else 
+    {
+    	for (int i=4; i<=n; i++) 
+    	{ 
+       		ll ans = inf;
+       		for(int j=1;j<=3;j++)
+       		{
+       			if(j==1) ans = min(ans,table[i-1]);
+       			else if(i%j==0) ans = min(ans,table[i/j]);
+       		}
+       
+       		table[i] = ans +1;
+    	} 
+    }
+    return table[n]; 
 }
 int main()
 {
+	ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+	freopen("/home/shaury/input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
 	int t;
 	cin>>t;
 	int k=1;
-	/*vec table;
-	for(int i=0;i<=N;i++)
-	table.pb(-1);
-	table[1] = 0;*/
-	while(t--)
+	auto start = high_resolution_clock::now(); 
+	vec a;
+	ll max1 = 0;
+	int tc = t;
+	while(t--)       //min/max query
 	{
 		ll n;
 		cin>>n;
-		cout<<"Case "<<k<<": "<<solve1(n)<<endl;
+		a.pb(n);
+		if(max1<n) max1 = n;
+	}
+	for(int i=0;i<=max1;i++) table.pb(0);
+    table[1] = 0;
+    table[2] = 1;
+    table[3] = 1;
+	solve(max1);//solving for max query in order to calculate all the tables below 
+	while(tc--)
+	{
+		cout<<"Case "<<k<<": "<<table[a[k-1]];
+		line;
 		k++;
 	}
-	return 0;
+	/*auto stop = high_resolution_clock::now();
+	auto duration = duration_cast<microseconds>(stop - start); 
+    cout << "Time taken by function: "<< duration.count() << " microseconds" << endl; 
+	*/return 0;
 }
