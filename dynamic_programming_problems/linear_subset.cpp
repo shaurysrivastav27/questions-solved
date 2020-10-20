@@ -11,46 +11,35 @@ using namespace std;
 #define mset multiset<ll>
 #define pair pair<ll,ll>
 #define pb push_back
-#define sort(a) sort(a.begin(),a.end())
 #define sort1(a) sort(a.begin(),a.end(),greater<ll> ())
 #define show(a) for(ll i:a) cout<<i<<" ";
 #define line cout<<endl
-using namespace std;
+
 bool solve()
 {
 	int n,d;
 	cin>>n>>d;
-	vec a;
-	int max = 0;
-	ll sum = 0;
-	a.pb(0);
+	int a[n];
+	for(int i=0;i<n;i++)
+	cin>>a[i];
+	
+	bool table[d+1] = {false};
+	sort(a,a+n);
+	table[0] =true;	
 	for(int i=0;i<n;i++)
 	{
-		int s;
-		cin>>s;
-		a.pb(s);
-		sum =sum+s;
-	}
-	max =d;
-	bool table[n+1][max+1];
-	for(int i = 0; i<=n;i++)
-	for(int j=0;j<=max;j++) table[i][j] = false;
-	
-	for(int i=0;i<=n;i++) table[a[i]][a[i]] = true; 
-	for(int i=1;i<=n;i++)
-	{
-		for(int j=0;j<=max;j++)
+		for(int j=d;j>=a[i];j--)
 		{
-			if(j>a[i])
-			table[i][j] = table[i][j-a[i]];
+			if(table[j] =1) continue;
+			else table[j] = table[j-a[i]];
+			//cout<<j<<" "<<j-a[i]<<" "<<table[j]<<endl;
 		}
 	}
-	bool ans = false;
-	for(int i=0;i<=n;i++)
-	ans = ans|table[i][d];
-	
-	return ans;
+	show(table);
+	return table[d];
 }
+
+
 int main()
 {
 	int t;
@@ -64,3 +53,4 @@ int main()
 	}
 	return 0;
 }
+
