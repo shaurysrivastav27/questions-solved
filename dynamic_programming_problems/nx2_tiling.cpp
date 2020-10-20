@@ -15,33 +15,7 @@ using namespace std;
 #define sort1(a) sort(a.begin(),a.end(),greater<ll> ())
 #define show(a) for(ll i:a) cout<<i<<" ";
 
-/* problem
-find number of ways to fill dominos of 2XN domino  with 2X1 or 1X2 domino 
-given dominos 
 
-0 ; 00
-0 ;
-
-
-N=1    
-0
-0
-N=2
-0 0 ; 00 
-0 0	  00
-
-N=3
-0 0 0 ; 0 00 ; 00 0
-0 0 0   0 00   00 0
-
-N=4 
-0 0 0 0 ; 00 00 ; 00 0 0 ; 0 0 00 ;0 00 0 
-0 0 0 0   00 00   00 0 0   0 0 00  0 00 0
- 
-N = 5; 
-0 0 0 0 0 ; 0 0 0 00 ; 0  00 00 ; 00 0 00 ; 00 00 0 ; 0 00 0 0 ; 0 0 00 0 ; 00 0 0 0  
-0 0 0 0 0   0 0 0 00   0  00 00   00 0 00   00 00 0   0 00 0 0   0 0 00 0   00 0 0 0
-*/
 ll N = 1e6 + 5;
 void ini(ll *table)
 {
