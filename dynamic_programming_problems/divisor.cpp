@@ -16,7 +16,7 @@ using namespace std;
 #define show(a) for(ll i:a) cout<<i<<" ";
 #define line cout<<endl
 
-
+//incomplete
 
 
 
