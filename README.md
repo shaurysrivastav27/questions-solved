@@ -86,3 +86,4 @@
 
 ### OCTOBER/20
 #### 1) https://www.codechef.com/COOK123B/problems/SPLITIT
+#### 2) https://www.codechef.com/problems/DECREM
