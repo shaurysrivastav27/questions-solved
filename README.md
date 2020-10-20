@@ -8,8 +8,13 @@
 #### https://www.codechef.com/problems/JAIN
 #### https://www.codechef.com/problems/JAM11
 #### https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
-#### https://www.codechef.com/submit/JAIN
 #### bitmasking....
+#### spoj_123 : https://www.spoj.com/problems/MST1/
+#### minimumcoin change https://practice.geeksforgeeks.org/problems/number-of-coins1824/1
+#### stair case problems  - staircase ,staircase2 same as tile floor problem  
+#### https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1
+#### subset sum problem : https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
+#### https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414a24
 #### https://practice.geeksforgeeks.org/problems/number-of-coins/0
 
 #### FIBBONACI AGAIN - Task. Given two integers n and m, output F n mod m (that is, the remainder of F n when divided by m).Input Format. The input consists of two integers n and m given on the same line (separated by a space).Constraints. 1 ≤ n ≤ 10 14 , 2 ≤ m ≤ 10 3 .Output Format. Output Fn mod m.
