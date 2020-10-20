@@ -83,3 +83,6 @@
 ### AUGUST/20
 #### 1) https://www.codechef.com/COOK121B/problems/CHEFNWRK
 #### 2) https://www.codechef.com/COOK121B/problems/POLYREL
+
+### OCTOBER/20
+#### 1) https://www.codechef.com/COOK123B/problems/SPLITIT
