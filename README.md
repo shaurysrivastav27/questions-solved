@@ -54,6 +54,11 @@
 #### https://codeforces.com/contest/1421/problem/B
 #### https://codeforces.com/contest/1421/problem/C
 
+### CODEFORCES 677 DIV 3
+#### https://codeforces.com/contest/1433/problem/A
+#### https://codeforces.com/contest/1433/problem/B
+#### https://codeforces.com/contest/1433/problem/C
+
 ### CODEFORCES EDUCATIONAL ROUND 
 #### https://codeforces.com/contest/1430/problem/A
 #### https://codeforces.com/contest/1430/problem/B
