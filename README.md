@@ -3,6 +3,12 @@
 #### infix->postfix - using stacks conversion of infix into postfix
 #### postfix->cala - using stacks calcluting value of postfix expression
 ### dynamic programming problems
+#### https://codeforces.com/problemset/problem/1323/A 8001cf
+#### https://codeforces.com/problemset/problem/1180/A 8002cf
+#### https://codeforces.com/problemset/problem/996/A 8003cf
+#### https://codeforces.com/problemset/problem/910/A 8004cf
+#### https://codeforces.com/problemset/problem/894/A 8005cf
+#### https://codeforces.com/problemset/problem/702/A 8006cf
 #### https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
 #### https://www.spoj.com/problems/MST1/
 #### https://www.codechef.com/problems/JAIN
