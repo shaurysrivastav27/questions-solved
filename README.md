@@ -32,6 +32,7 @@
 #### anti pallindrome - https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/anti-plaindrome-2-72ff6f62/
 #### anagram - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/ 
 #### string sum - https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-sum/
+#### count connected - https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/submissions/
 
 ## HACKERRANK
 #### brackets - https://www.hackerrank.com/challenges/balanced-brackets/problem
